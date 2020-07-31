@@ -1,14 +1,14 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Sandeep Bolla | Personal Webpage",
+	"Name": "Sandeep Bolla",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"UnderGrad at NIT Silchar. Passionate about Tech, Cosmos, .",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://imgur.com/a/jc9wqJv",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "",
 	"AboutContent": [
 		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
@@ -19,7 +19,7 @@
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Amazon India",
@@ -57,12 +57,12 @@
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
 	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
+	"emailid": "mailto:sandeep97975@gmail.com",
+	"linkedin": "https://linkedin.com/in/sandeep-bolla",
+	"wordpress": "",
 	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"github": "https://github.com/Sandeep-Bolla",
+	"instagram": "",
+	"twitter": "https://twitter.com/",
+	"medium": "https://medium.com/"
 }
